@@ -9,6 +9,8 @@
 # Projekti idee
 * Mõte on teha ussimängu
 
+# Projekti käivitamiseks vajalikud moodulid
+
 # Iga liikme tööülesanded
 * Marten Kabral-
 * Markus-Stefan Anni-
